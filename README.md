@@ -6,7 +6,7 @@
   <h1 align="center">Mario Kart Race Simulator (Improved Version)</h1>
 
   <p align="center">
-    A **Node.js** terminal-based Mario Kart race simulator.
+    A <b>Node.js</b> terminal-based Mario Kart race simulator.
     <br />
     <a href="https://github.com/ismaelldiias/nodejs-mario-kart-race-simulator/issues">Report Bug</a>
     ·
